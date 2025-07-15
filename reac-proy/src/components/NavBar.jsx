@@ -11,7 +11,7 @@ export const NavBar = () => {
       backgroundColor: '#f8f8f8',
       borderBottom: '1px solid #ddd'
     }}>
-      <h2 style={{ margin: 0 }}>MiTienda</h2>
+      <h2>MiTienda</h2>
 
       <nav style={{ display: 'flex', gap: '1rem' }}>
         <a href="#">Inicio</a>
